@@ -34,5 +34,5 @@ My name is Aleksandr and at the moment I'm trying myself in development. I'm fro
 </p>
 </p>
 <br />
-s
+
 [![Header](https://github.com/asp1rant3/asp1rant3/blob/main/assets/header.jpg)](https://github.com/asp1rant3)
