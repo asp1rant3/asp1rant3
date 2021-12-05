@@ -31,5 +31,8 @@ My name is Aleksandr and at the moment I'm trying myself in development. I'm fro
       <td><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asp1rant3&hide=html&layout=compact&hide_border=true&hide_title=true&theme=dark&icon_color=5194f0&bg_color=0d1117" /></td>
   </tr>   
 </table>
+<p>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=asp1rant3.visitor-badge&color=5194f0" />
+</p>
 </p>
 <br />
