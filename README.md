@@ -1,4 +1,4 @@
-## <img src="https://github.com/asp1rant3/asp1rant3/blob/main/assets/yodasmile.gif" width="25px"> Hello everyone! 
+## <img src="https://github.com/asp1rant3/asp1rant3/blob/main/assets/yodasmile.gif" width="25px"> Hello Everyone! 
 
 My name is Aleksandr and at the moment I'm trying myself in development. I'm from Belarus, Minsk.   
 
@@ -12,7 +12,7 @@ My name is Aleksandr and at the moment I'm trying myself in development. I'm fro
 [![Python](https://img.shields.io/badge/-Python-1e1f26?style=for-the-badge&logo=Python)](https://ru.wikipedia.org/wiki/Python)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-1e1f26?style=for-the-badge&logo=JavaScript)](https://en.wikipedia.org/wiki/JavaScript)
 
-### <img src="https://github.com/asp1rant3/asp1rant3/blob/main/assets/idk.gif" width="25px"> Social networks
+### <img src="https://github.com/asp1rant3/asp1rant3/blob/main/assets/idk.gif" width="25px"> Social Networks
 
 [![Gmail](https://img.shields.io/badge/-Gmail-1e1f26?style=for-the-badge&logo=Gmail)](https://mailhide.io/e/jUcMyHpo)
 [![Telegram](https://img.shields.io/badge/-Telegram-1e1f26?style=for-the-badge&logo=Telegram)](https://t.me/asp1rant3)
@@ -21,7 +21,7 @@ My name is Aleksandr and at the moment I'm trying myself in development. I'm fro
 [![VK](https://img.shields.io/badge/-VK-1e1f26?style=for-the-badge&logo=VK)](https://vk.com/asp1rant3)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-1e1f26?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/asp1rant3/)
 
-### <img src="https://github.com/asp1rant3/asp1rant3/blob/main/assets/PepeDisco.gif" width="25px"> GitHub Stats
+### <img src="https://github.com/asp1rant3/asp1rant3/blob/main/assets/PepeDisco.gif" width="25px"> GitHub Statistics
 <p align="center">
   <table>
   <tr>
