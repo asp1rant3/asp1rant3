@@ -1,5 +1,3 @@
-[![Header](https://github.com/asp1rant3/asp1rant3/blob/main/assets/header.jpg)](https://github.com/asp1rant3)
-
 ## <img src="https://github.com/asp1rant3/asp1rant3/blob/main/assets/yodasmile.gif" width="25px"> Hello everyone! 
 
 My name is Aleksandr and at the moment I'm trying myself in development. I'm from Belarus, Minsk.   
@@ -36,3 +34,5 @@ My name is Aleksandr and at the moment I'm trying myself in development. I'm fro
 </p>
 </p>
 <br />
+
+[![Header](https://github.com/asp1rant3/asp1rant3/blob/main/assets/header.jpg)](https://github.com/asp1rant3)
