@@ -4,13 +4,13 @@ My name is Aleksandr and at the moment I'm trying myself in development. I'm fro
 
 ### <img src="https://github.com/asp1rant3/asp1rant3/blob/main/assets/cockroach.gif" width="25px"> Technologies & Tools
 
-![Linux](https://img.shields.io/badge/-Linux-1e1f26?style=for-the-badge&logo=Linux)
-![VSCode](https://img.shields.io/badge/-VSCode-1e1f26?style=for-the-badge&logo=VisualStudioCode)
-![Git](https://img.shields.io/badge/-Git-1e1f26?style=for-the-badge&logo=Git)
-![MySQL](https://img.shields.io/badge/-MySQL-1e1f26?style=for-the-badge&logo=MySQL)
-![C++](https://img.shields.io/badge/-C++-1e1f26?style=for-the-badge&logo=C%2b%2b)
-![Python](https://img.shields.io/badge/-Python-1e1f26?style=for-the-badge&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-1e1f26?style=for-the-badge&logo=JavaScript)
+[![Linux](https://img.shields.io/badge/-Linux-1e1f26?style=for-the-badge&logo=Linux)](https://wikipedia.org/wiki/Linux)
+[![VSCode](https://img.shields.io/badge/-VSCode-1e1f26?style=for-the-badge&logo=VisualStudioCode)](https://wikipedia.org/wiki/Visual_Studio_Code)
+[![Git](https://img.shields.io/badge/-Git-1e1f26?style=for-the-badge&logo=Git)](https://ru.wikipedia.org/wiki/Git)
+[![MySQL](https://img.shields.io/badge/-MySQL-1e1f26?style=for-the-badge&logo=MySQL)](https://ru.wikipedia.org/wiki/MySQL)
+[![C++](https://img.shields.io/badge/-C++-1e1f26?style=for-the-badge&logo=C%2b%2b)](https://wikipedia.org/wiki/C%2B%2B)
+[![Python](https://img.shields.io/badge/-Python-1e1f26?style=for-the-badge&logo=Python)](https://ru.wikipedia.org/wiki/Python)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-1e1f26?style=for-the-badge&logo=JavaScript)](https://en.wikipedia.org/wiki/JavaScript)
 
 ### <img src="https://github.com/asp1rant3/asp1rant3/blob/main/assets/idk.gif" width="25px"> Social networks
 
