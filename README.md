@@ -35,7 +35,7 @@ My name is Aleksandr and at the moment I'm trying myself in development. I'm fro
 </p>
 <br />
 
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/asp1rant3/asp1rant3/blob/output/github-contribution-grid-snake.svg)
 
 
 [![Header](https://github.com/asp1rant3/asp1rant3/blob/main/assets/header.jpg)](https://github.com/asp1rant3)
