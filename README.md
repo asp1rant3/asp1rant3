@@ -22,19 +22,20 @@ My name is Aleksandr and at the moment I'm trying myself in development. I'm fro
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-1e1f26?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/asp1rant3/)
 
 ### <img src="https://github.com/asp1rant3/asp1rant3/blob/main/assets/PepeDisco.gif" width="25px"> GitHub Statistics
-<p align="center">
-  <table>
-  <tr>
-      <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=asp1rant3&hide_border=true&count_private=false&layout=compact&hide_title=true&show_icons=true&theme=dark&icon_color=5194f0&bg_color=0d1117" /></td>
-      <td><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asp1rant3&hide=html&layout=compact&hide_border=true&hide_title=false&theme=dark&icon_color=5194f0&bg_color=0d1117" /></td>
-  </tr>   
-</table>
+
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asp1rant3&theme=github_dark" alt="asp1rant3" align = "center"/></p>
+
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=asp1rant3&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="asp1rant3" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=asp1rant3&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="asp1rant3" align = "center"/></p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=asp1rant3&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="asp1rant3" /></p>
+
+<p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=asp1rant3&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+
+<p align="center"> <a href="https://github.com/asp1rant3"><img src="https://github-profile-trophy.vercel.app/?username=asp1rant3&margin-w=5&theme=radical" alt="asp1rant3" /></a> </p>
+
 <p>
   <img src="https://visitor-badge.glitch.me/badge?page_id=asp1rant3.visitor-badge&color=5194f0" />
 </p>
-</p>
-<br />
-
-
 
 [![Header](https://github.com/asp1rant3/asp1rant3/blob/main/assets/header.png)](https://github.com/asp1rant3)
