@@ -25,8 +25,8 @@ My name is Aleksandr and at the moment I'm trying myself in development. I'm fro
 
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asp1rant3&theme=github_dark" alt="asp1rant3" align = "center"/></p>
 
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=asp1rant3&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="asp1rant3" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=asp1rant3&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="asp1rant3" align = "center"/></p>
+<p align="left"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=asp1rant3&hide_border=true&count_private=false&layout=compact&hide_title=true&show_icons=true&theme=dark&icon_color=5194f0&bg_color=0d1117" alt="asp1rant3" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asp1rant3&hide=html&layout=compact&hide_border=true&hide_title=false&theme=dark&icon_color=5194f0&bg_color=0d1117" alt="asp1rant3" align = "center"/></p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=asp1rant3&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="asp1rant3" /></p>
 
