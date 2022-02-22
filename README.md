@@ -1,6 +1,5 @@
 ## <img src="https://github.com/asp1rant3/asp1rant3/blob/main/assets/yodasmile.gif" width="25px"> Hello Everyone! 
-
-My name is Aleksandr and at the moment I'm trying myself in development. I'm from Belarus, Minsk.   
+   
 
 ### <img src="https://github.com/asp1rant3/asp1rant3/blob/main/assets/cockroach.gif" width="25px"> Technologies & Tools
 
