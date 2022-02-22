@@ -35,7 +35,7 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=asp1rant3&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="asp1rant3" /></p>
 
-<p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=asp1rant3&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+<p align="center"<a href="#"><img alt="asp1rant3 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=asp1rant3&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 
 <p align="center"> <a href="https://github.com/asp1rant3"><img src="https://github-profile-trophy.vercel.app/?username=asp1rant3&margin-w=5&theme=radical" alt="asp1rant3" /></a> </p>
 
