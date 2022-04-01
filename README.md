@@ -2,7 +2,7 @@
 
 ### <img src="https://github.com/asp1rant3/asp1rant3/blob/main/assets/cockroach.gif" width="25px"> Technologies & Tools
 
-[![Linux](https://img.shields.io/badge/-Linux-1e1f26?style=for-the-badge&logo=Fedora)](https://wikipedia.org/wiki/Fedora_Linux)
+[![Linux](https://img.shields.io/badge/-Linux-1e1f26?style=for-the-badge&logo=Linux)](https://wikipedia.org/wiki/Linux)
 [![VisualStudio](https://img.shields.io/badge/-VS/VSCode-1e1f26?style=for-the-badge&logo=VisualStudio)](https://wikipedia.org/wiki/Visual_Studio)
 [![PyCharm](https://img.shields.io/badge/-PyCharm-1e1f26?style=for-the-badge&logo=PyCharm)](https://wikipedia.org/wiki/PyCharm)
 [![Git](https://img.shields.io/badge/-Git-1e1f26?style=for-the-badge&logo=Git)](https://wikipedia.org/wiki/Git)
