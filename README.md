@@ -1,6 +1,6 @@
-## <img src="https://github.com/asp1rant3/asp1rant3/blob/main/assets/yodasmile.gif" width="25px"> Hello Everyone!
+## <img src="https://github.com/snglrtycrvtureofspce/snglrtycrvtureofspce/blob/main/assets/yodasmile.gif" width="25px"> Hello Everyone!
 
-### <img src="https://github.com/asp1rant3/asp1rant3/blob/main/assets/cockroach.gif" width="25px"> Technologies & Tools
+### <img src="https://github.com/snglrtycrvtureofspce/snglrtycrvtureofspce/blob/main/assets/cockroach.gif" width="25px"> Technologies & Tools
 
 [![Linux](https://img.shields.io/badge/-Linux-1e1f26?style=for-the-badge&logo=Linux)](https://wikipedia.org/wiki/Linux)
 [![VisualStudio](https://img.shields.io/badge/-VS/VSCode-1e1f26?style=for-the-badge&logo=VisualStudio)](https://wikipedia.org/wiki/Visual_Studio)
@@ -12,40 +12,40 @@
 [![C++](https://img.shields.io/badge/-C++-1e1f26?style=for-the-badge&logo=C%2b%2b)](https://wikipedia.org/wiki/C%2B%2B)
 [![.NET](https://img.shields.io/badge/-.NET-1e1f26?style=for-the-badge&logo=.NET)](https://wikipedia.org/wiki/.NET)
 
-### <img src="https://github.com/asp1rant3/asp1rant3/blob/main/assets/idk.gif" width="25px"> Feedback
+### <img src="https://github.com/snglrtycrvtureofspce/snglrtycrvtureofspce/blob/main/assets/idk.gif" width="25px"> Feedback
 
 [![Gmail](https://img.shields.io/badge/-Gmail-1e1f26?style=for-the-badge&logo=Gmail)](https://mailhide.io/e/jUcMyHpo)
-[![Telegram](https://img.shields.io/badge/-Telegram-1e1f26?style=for-the-badge&logo=Telegram)](https://t.me/asp1rant3)
+[![Telegram](https://img.shields.io/badge/-Telegram-1e1f26?style=for-the-badge&logo=Telegram)](https://t.me/snglrtycrvtureofspce)
 [![Discord](https://img.shields.io/badge/-Discord-1e1f26?style=for-the-badge&logo=Discord)](https://discord.com/users/318032796088008706)
-[![Twitter](https://img.shields.io/badge/-Twitter-1e1f26?style=for-the-badge&logo=Twitter)](https://twitter.com/asp1rant3)
-[![VK](https://img.shields.io/badge/-VK-1e1f26?style=for-the-badge&logo=VK)](https://vk.com/asp1rant3)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1e1f26?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/asp1rant3)
+[![Twitter](https://img.shields.io/badge/-Twitter-1e1f26?style=for-the-badge&logo=Twitter)](https://twitter.com/snglrtycrvture)
+[![VK](https://img.shields.io/badge/-VK-1e1f26?style=for-the-badge&logo=VK)](https://vk.com/snglrtycrvtureofspce)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1e1f26?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/snglrtycrvtureofspce)
 
-### <img src="https://github.com/asp1rant3/asp1rant3/blob/main/assets/PepeDisco.gif" width="25px"> GitHub Statistics
+### <img src="https://github.com/snglrtycrvtureofspce/snglrtycrvtureofspce/blob/main/assets/PepeDisco.gif" width="25px"> GitHub Statistics
 
 <p align="center"><img width = "700px" img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asp1rant3&theme=github_dark" alt="asp1rant3" align = "center"/></p>
 
 <p align="center">
   <tr> 
-      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=asp1rant3&hide_border=true&count_private=false&layout=compact&hide_title=true&show_icons=true&theme=dark&icon_color=5194f0&bg_color=0d1117" /></td>
-      <td><img width="281px" align= "center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=asp1rant3&hide=html&layout=compact&hide_border=true&hide_title=false&theme=dark&icon_color=5194f0&bg_color=0d1117" /></td>
+      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=snglrtycrvtureofspce&hide_border=true&count_private=false&layout=compact&hide_title=true&show_icons=true&theme=dark&icon_color=5194f0&bg_color=0d1117" /></td>
+      <td><img width="281px" align= "center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=snglrtycrvtureofspce&hide=html&layout=compact&hide_border=true&hide_title=false&theme=dark&icon_color=5194f0&bg_color=0d1117" /></td>
   </tr>
 </p>
 
 <p align="center">
 <tr>
-<td><img width="682px" img src="https://github-readme-streak-stats.herokuapp.com/?user=asp1rant3&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="asp1rant3"/></td>
+<td><img width="682px" img src="https://github-readme-streak-stats.herokuapp.com/?user=snglrtycrvtureofspce&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="snglrtycrvtureofspce"/></td>
 </tr>
 </p>
 
 <p align="center">
 <tr>
-<td><a href="#"><img width = "682px" img alt="asp1rant3 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=asp1rant3&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&"/></a></td>
+<td><a href="#"><img width = "682px" img alt="snglrtycrvtureofspce Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=snglrtycrvtureofspce&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&"/></a></td>
 </tr>
 </p>
 
-<p align="center"> <a href="https://github.com/asp1rant3"><img src="https://github-profile-trophy.vercel.app/?username=asp1rant3&margin-w=5&theme=radical" alt="asp1rant3" /></a></p>
+<p align="center"> <a href="https://github.com/snglrtycrvtureofspce"><img src="https://github-profile-trophy.vercel.app/?username=snglrtycrvtureofspce&margin-w=5&theme=radical" alt="asp1rant3" /></a></p>
 
-<p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=asp1rant3.visitor-badge&color=5194f0"/></p>
+<p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=snglrtycrvtureofspce.visitor-badge&color=5194f0"/></p>
 
-[![Header](https://github.com/asp1rant3/asp1rant3/blob/main/assets/header.png)](https://github.com/asp1rant3)
+[![Header](https://github.com/snglrtycrvtureofspce/snglrtycrvtureofspce/blob/main/assets/header.png)](https://github.com/snglrtycrvtureofspce)
