@@ -23,7 +23,7 @@
 
 ### <img src="https://github.com/snglrtycrvtureofspce/snglrtycrvtureofspce/blob/main/assets/PepeDisco.gif" width="25px"> GitHub Statistics
 
-<p align="center"><img width = "700px" img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asp1rant3&theme=github_dark" alt="asp1rant3" align = "center"/></p>
+<p align="center"><img width = "700px" img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snglrtycrvtureofspce&theme=github_dark" alt="snglrtycrvtureofspce" align = "center"/></p>
 
 <p align="center">
   <tr> 
