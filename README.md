@@ -40,7 +40,7 @@
 
 <p align="center">
 <tr>
-<td><a href="#"><img width = "682px" img alt="snglrtycrvtureofspce Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=snglrtycrvtureofspce&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&"/></a></td>
+<td><a href="#"><src="https://activity-graph.herokuapp.com/graph?username=snglrtycrvtureofspce&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&"/></a></td>
 </tr>
 </p>
 
