@@ -1,5 +1,9 @@
 ## <img src="https://github.com/snglrtycrvtureofspce/snglrtycrvtureofspce/blob/main/assets/yodasmile.gif" width="25px"> Hello Everyone!
+hi, I'm a passionate self-taught developer and freelance software engineer. my passion for software is to come up with ideas and bring them to life. i am very careful about the experience, architecture and code quality of the things I create.
 
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/snglrtycrv" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 ### <img src="https://github.com/snglrtycrvtureofspce/snglrtycrvtureofspce/blob/main/assets/cockroach.gif" width="25px"> Technologies & Tools
 
 [![Linux](https://img.shields.io/badge/-Linux-1e1f26?style=for-the-badge&logo=Linux)](https://wikipedia.org/wiki/Linux)
