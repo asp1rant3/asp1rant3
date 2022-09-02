@@ -6,15 +6,19 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <a href="https://www.buymeacoffee.com/snglrtycrv" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 ### <img src="https://github.com/snglrtycrvtureofspce/snglrtycrvtureofspce/blob/main/assets/cockroach.gif" width="25px"> Technologies & Tools
 
-[![Linux](https://img.shields.io/badge/-Linux-1e1f26?style=for-the-badge&logo=Linux)](https://wikipedia.org/wiki/Linux)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://wikipedia.org/wiki/Linux)
 [![VisualStudio](https://img.shields.io/badge/-VS/VSCode-1e1f26?style=for-the-badge&logo=VisualStudio)](https://wikipedia.org/wiki/Visual_Studio)
 [![PyCharm](https://img.shields.io/badge/-PyCharm-1e1f26?style=for-the-badge&logo=PyCharm)](https://wikipedia.org/wiki/PyCharm)
-[![Git](https://img.shields.io/badge/-Git-1e1f26?style=for-the-badge&logo=Git)](https://wikipedia.org/wiki/Git)
-[![SQL](https://img.shields.io/badge/-SQL-1e1f26?style=for-the-badge&logo=MySQL)](https://wikipedia.org/wiki/SQL)
-[![Python](https://img.shields.io/badge/-Python-1e1f26?style=for-the-badge&logo=Python)](https://wikipedia.org/wiki/Python_(programming_language))
-[![Django](https://img.shields.io/badge/-Django-1e1f26?style=for-the-badge&logo=Django)](https://wikipedia.org/wiki/Django_(web_framework))
-[![C++](https://img.shields.io/badge/-C++-1e1f26?style=for-the-badge&logo=C%2b%2b)](https://wikipedia.org/wiki/C%2B%2B)
-[![.NET](https://img.shields.io/badge/-.NET-1e1f26?style=for-the-badge&logo=.NET)](https://wikipedia.org/wiki/.NET)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://wikipedia.org/wiki/IntelliJ_IDEA)
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://wikipedia.org/wiki/Git)
+[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://wikipedia.org/wiki/SQL)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54](https://wikipedia.org/wiki/Python_(programming_language))
+[![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://wikipedia.org/wiki/Django_(web_framework))
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://wikipedia.org/wiki/Java)
+[![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://wikipedia.org/wiki/Spring_Framework)
+[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://wikipedia.org/wiki/C%2B%2B)
+[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://wikipedia.org/wiki/C_Sharp_(programming_language))
+[![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://wikipedia.org/wiki/.NET)
 
 ### <img src="https://github.com/snglrtycrvtureofspce/snglrtycrvtureofspce/blob/main/assets/idk.gif" width="25px"> Feedback
 
