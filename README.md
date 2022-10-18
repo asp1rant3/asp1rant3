@@ -29,6 +29,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 [![Twitter](https://img.shields.io/badge/-Twitter-1e1f26?style=for-the-badge&logo=Twitter)](https://twitter.com/snglrtycrv)
 [![VK](https://img.shields.io/badge/-VK-1e1f26?style=for-the-badge&logo=VK)](https://vk.com/snglrtycrvtureofspce)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-1e1f26?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/snglrtycrvtureofspce)
+[![Codewars](https://img.shields.io/badge/-Codewars-1e1f26?style=for-the-badge&logo=Codewars)](https://www.codewars.com/users/snglrtycrvtureofspce)
 
 ### <img src="https://github.com/snglrtycrvtureofspce/snglrtycrvtureofspce/blob/main/assets/PepeDisco.gif" width="25px"> GitHub Statistics
 
