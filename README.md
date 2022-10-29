@@ -32,6 +32,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 [![Codewars](https://img.shields.io/badge/-Codewars-1e1f26?style=for-the-badge&logo=Codewars)](https://www.codewars.com/users/snglrtycrvtureofspce)
 
 <p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=snglrtycrvtureofspce.visitor-badge&color=5194f0"></p>
+<p align="center"><img src="[https://visitor-badge.glitch.me/badge?page_id=snglrtycrvtureofspce.visitor-badge&color=5194f0 (https://www.codewars.com/users/snglrtycrvtureofspce/badges/micro)"></p>
 
 ### <img src="https://github.com/snglrtycrvtureofspce/snglrtycrvtureofspce/blob/main/assets/PepeDisco.gif" width="25px"> GitHub Statistics
 
