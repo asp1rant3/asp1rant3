@@ -30,7 +30,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 [![VK](https://img.shields.io/badge/-VK-1e1f26?style=for-the-badge&logo=VK)](https://vk.com/snglrtycrvtureofspce)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-1e1f26?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/snglrtycrvtureofspce)
 [![Codewars](https://img.shields.io/badge/-Codewars-1e1f26?style=for-the-badge&logo=Codewars)](https://www.codewars.com/users/snglrtycrvtureofspce)
-
+<p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=snglrtycrvtureofspce.visitor-badge&color=5194f0"/></p>
 ### <img src="https://github.com/snglrtycrvtureofspce/snglrtycrvtureofspce/blob/main/assets/PepeDisco.gif" width="25px"> GitHub Statistics
 
 <p align="center"><img width = "700px" img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snglrtycrvtureofspce&theme=github_dark" alt="snglrtycrvtureofspce" align = "center"/></p>
@@ -56,6 +56,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <p align="center"> <a href="https://github.com/snglrtycrvtureofspce"><img src="https://github-profile-trophy.vercel.app/?username=snglrtycrvtureofspce&margin-w=5&theme=radical" alt="asp1rant3" /></a></p>
 
-<p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=snglrtycrvtureofspce.visitor-badge&color=5194f0"/></p>
+
 
 [![Header](https://github.com/snglrtycrvtureofspce/snglrtycrvtureofspce/blob/main/assets/header.png)](https://github.com/snglrtycrvtureofspce)
