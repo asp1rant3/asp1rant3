@@ -24,8 +24,8 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 [![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://wikipedia.org/wiki/Spring_Framework)
 [![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)](https://en.wikipedia.org/wiki/Qt_(software))
 [![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://wikipedia.org/wiki/.NET)
-[![WinForms](https://img.shields.io/badge/WinForms-2CA5E0?style=for-the-badge&logo=.net&logoColor=white)](https://en.wikipedia.org/wiki/Windows_Forms)
-[![WPF](https://img.shields.io/badge/WPF-%230A0FFF.svg?style=for-the-badge&logo=.net&logoColor=white)](https://en.wikipedia.org/wiki/Windows_Presentation_Foundation)
+[![WinForms](https://img.shields.io/badge/WinForms-2CA5E0?style=for-the-badge&logo=WinForms&logoColor=white)](https://en.wikipedia.org/wiki/Windows_Forms)
+[![WPF](https://img.shields.io/badge/WPF-%230A0FFF.svg?style=for-the-badge&logo=WPF&logoColor=white)](https://en.wikipedia.org/wiki/Windows_Presentation_Foundation)
 
 ### <img src="https://github.com/snglrtycrvtureofspce/snglrtycrvtureofspce/blob/main/assets/cockroach.gif" width="25px"> Tools
 
