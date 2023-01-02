@@ -28,7 +28,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailhide.io/e/jUcMyHpo)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/snglrtycrvtureofspce)
-[![Discord](https://img.shields.io/badge/-Discord-1e1f26?style=for-the-badge&logo=Discord)](https://discord.com/users/318032796088008706)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/318032796088008706)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/snglrtycrv)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://snglrtycrvtureofspce.slack.com/)
 [![VK](https://img.shields.io/badge/-VK-1e1f26?style=for-the-badge&logo=VK)](https://vk.com/snglrtycrvtureofspce)
