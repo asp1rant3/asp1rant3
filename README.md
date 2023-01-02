@@ -31,7 +31,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/318032796088008706)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/snglrtycrv)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://snglrtycrvtureofspce.slack.com/)
-[![VK](https://img.shields.io/badge/-VK-1e1f26?style=for-the-badge&logo=VK)](https://vk.com/snglrtycrvtureofspce)
+[![VK](https://img.shields.io/badge/-VK-4682B4?style=for-the-badge&logo=VK)](https://vk.com/snglrtycrvtureofspce)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snglrtycrvtureofspce)
 [![Codewars](https://img.shields.io/badge/-Codewars-1e1f26?style=for-the-badge&logo=Codewars)](https://www.codewars.com/users/snglrtycrvtureofspce)
 
