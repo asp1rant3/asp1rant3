@@ -33,7 +33,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://snglrtycrvtureofspce.slack.com/)
 [![VK](https://img.shields.io/badge/-VK-4682B4?style=for-the-badge&logo=VK)](https://vk.com/snglrtycrvtureofspce)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snglrtycrvtureofspce)
-[![Codewars](https://img.shields.io/badge/-Codewars-1e1f26?style=for-the-badge&logo=Codewars)](https://www.codewars.com/users/snglrtycrvtureofspce)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/snglrtycrvtureofspce)
 
 <p align="center"><img src="https://www.codewars.com/users/snglrtycrvtureofspce/badges/micro" hspace="2" vspace="2"><img src="https://visitor-badge.glitch.me/badge?page_id=snglrtycrvtureofspce.visitor-badge&color=5194f0" hspace="2" vspace="2"></p>
 
