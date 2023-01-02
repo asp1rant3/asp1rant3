@@ -27,11 +27,12 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 ### <img src="https://github.com/snglrtycrvtureofspce/snglrtycrvtureofspce/blob/main/assets/idk.gif" width="25px"> Feedback
 
 [![Gmail](https://img.shields.io/badge/-Gmail-1e1f26?style=for-the-badge&logo=Gmail)](https://mailhide.io/e/jUcMyHpo)
-[![Telegram](https://img.shields.io/badge/-Telegram-1e1f26?style=for-the-badge&logo=Telegram)](https://t.me/snglrtycrvtureofspce)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/snglrtycrvtureofspce)
 [![Discord](https://img.shields.io/badge/-Discord-1e1f26?style=for-the-badge&logo=Discord)](https://discord.com/users/318032796088008706)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/snglrtycrv)
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://snglrtycrvtureofspce.slack.com/)
 [![VK](https://img.shields.io/badge/-VK-1e1f26?style=for-the-badge&logo=VK)](https://vk.com/snglrtycrvtureofspce)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1e1f26?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/snglrtycrvtureofspce)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snglrtycrvtureofspce)
 [![Codewars](https://img.shields.io/badge/-Codewars-1e1f26?style=for-the-badge&logo=Codewars)](https://www.codewars.com/users/snglrtycrvtureofspce)
 
 <p align="center"><img src="https://www.codewars.com/users/snglrtycrvtureofspce/badges/micro" hspace="2" vspace="2"><img src="https://visitor-badge.glitch.me/badge?page_id=snglrtycrvtureofspce.visitor-badge&color=5194f0" hspace="2" vspace="2"></p>
