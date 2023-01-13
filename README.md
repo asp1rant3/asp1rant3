@@ -61,8 +61,8 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <p align="center">
   <tr> 
-      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=snglrtycrvtureofspce&hide_border=true&count_private=false&layout=compact&hide_title=true&show_icons=true&theme=dark&icon_color=5194f0&bg_color=0d1117" /></td>
-      <td><img width="281px" align= "center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=snglrtycrvtureofspce&hide=html&layout=compact&hide_border=true&hide_title=false&theme=dark&icon_color=5194f0&bg_color=0d1117" /></td>
+      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=snglrtycrvtureofspce&show_icons=true&theme=tokyonight" /></td>
+      <td><img width="281px" align= "center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=snglrtycrvtureofspce" /></td>
   </tr>
 </p>
 
