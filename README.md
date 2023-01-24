@@ -57,7 +57,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ### <img src="https://github.com/snglrtycrvtureofspce/snglrtycrvtureofspce/blob/main/assets/PepeDisco.gif" width="25px"> GitHub Statistics
 
-<p align="center"><img width = "700px" img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snglrtycrvtureofspce&theme=tokyonight" alt="snglrtycrvtureofspce" align = "center"/></p>
+<p align="center"><img width = "10000px" img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snglrtycrvtureofspce&theme=tokyonight" alt="snglrtycrvtureofspce" align = "center"/></p>
 
 <p align="center">
   <tr> 
