@@ -62,7 +62,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <p align="center">
   <tr> 
       <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=snglrtycrvtureofspce&show_icons=true&theme=tokyonight" /></td>
-      <td><img width="300px" align= "center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=snglrtycrvtureofspce&layout=compact&theme=tokyonight" /></td>
+      <td><img width="350px" align= "center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=snglrtycrvtureofspce&layout=compact&theme=tokyonight" /></td>
   </tr>
 </p>
 
