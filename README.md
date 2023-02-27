@@ -4,7 +4,7 @@ hi, I'm a passionate self-taught developer and vacant software engineer. my pass
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/snglrtycrv" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-### <img src="https://github.com/jglovier/gifs/blob/gh-pages/done/hand-wipe.gif" width="25px"> Technologies && Languages
+### <img src="https://github.com/jglovier/gifs/blob/gh-pages/done/hand-wipe.gif" width="25px"> Technologies & Languages
 
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://wikipedia.org/wiki/Git)
 [![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)](https://ru.wikipedia.org/wiki/Apache_HTTP_Server)
