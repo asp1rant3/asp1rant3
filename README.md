@@ -19,11 +19,11 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 #### Main stack
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://wikipedia.org/wiki/C_Sharp_(programming_language))
 [![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://wikipedia.org/wiki/.NET)
-[![WinForms](https://img.shields.io/badge/WinForms-2CA5E0?style=for-the-badge&logo=WinForms&logoColor=white)](https://en.wikipedia.org/wiki/Windows_Forms)
-[![WPF](https://img.shields.io/badge/WPF-%230A0FFF.svg?style=for-the-badge&logo=WPF&logoColor=white)](https://en.wikipedia.org/wiki/Windows_Presentation_Foundation)
-[![ASP.NET](https://img.shields.io/badge/ASP.NET-%2300599C?style=for-the-badge&logo=ASP.NET&logoColor=white)](https://wikipedia.org/wiki/ASP.NET)
 [![ADO.NET](https://img.shields.io/badge/ADO.NET-5C2D91?style=for-the-badge&logo=ADO.NET&logoColor=white)](https://wikipedia.org/wiki/ADO.NET)
 [![Entity](https://img.shields.io/badge/Entity-000000.svg?style=for-the-badge&logo=Entity&logoColor=white)](https://en.wikipedia.org/wiki/Entity_Framework)
+[![ASP.NET](https://img.shields.io/badge/ASP.NET-%2300599C?style=for-the-badge&logo=ASP.NET&logoColor=white)](https://wikipedia.org/wiki/ASP.NET)
+[![WinForms](https://img.shields.io/badge/WinForms-2CA5E0?style=for-the-badge&logo=WinForms&logoColor=white)](https://en.wikipedia.org/wiki/Windows_Forms)
+[![WPF](https://img.shields.io/badge/WPF-%230A0FFF.svg?style=for-the-badge&logo=WPF&logoColor=white)](https://en.wikipedia.org/wiki/Windows_Presentation_Foundation)
 
 ##### DBs
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://wikipedia.org/wiki/SQL)
