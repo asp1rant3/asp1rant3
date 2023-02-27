@@ -9,7 +9,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://wikipedia.org/wiki/Git)
 [![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)](https://ru.wikipedia.org/wiki/Apache_HTTP_Server)
 [![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)](https://ru.wikipedia.org/wiki/Nginx)
-[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://wikipedia.org/wiki/C_Sharp_(programming_language))
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://wikipedia.org/wiki/C%2B%2B)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://wikipedia.org/wiki/Java)
@@ -20,6 +19,8 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 [![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_SQL_Server)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML5)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
+#### <img src="https://github.com/jglovier/gifs/blob/gh-pages/done/hand-wipe.gif" width="25px"> Main stack
+[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://wikipedia.org/wiki/C_Sharp_(programming_language))
 [![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://wikipedia.org/wiki/.NET)
 [![WinForms](https://img.shields.io/badge/WinForms-2CA5E0?style=for-the-badge&logo=WinForms&logoColor=white)](https://en.wikipedia.org/wiki/Windows_Forms)
 [![WPF](https://img.shields.io/badge/WPF-%230A0FFF.svg?style=for-the-badge&logo=WPF&logoColor=white)](https://en.wikipedia.org/wiki/Windows_Presentation_Foundation)
