@@ -23,7 +23,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 [![WPF](https://img.shields.io/badge/WPF-%230A0FFF.svg?style=for-the-badge&logo=WPF&logoColor=white)](https://en.wikipedia.org/wiki/Windows_Presentation_Foundation)
 [![ASP.NET](https://img.shields.io/badge/ASP.NET-%2300599C?style=for-the-badge&logo=ASP.NET&logoColor=white)](https://wikipedia.org/wiki/ASP.NET)
 [![ADO.NET](https://img.shields.io/badge/ADO.NET-5C2D91?style=for-the-badge&logo=ADO.NET&logoColor=white)](https://wikipedia.org/wiki/ADO.NET)
-[![Entity](https://img.shields.io/badge/Entity-5C2D91?style=for-the-badge&logo=Entity&logoColor=white)](https://en.wikipedia.org/wiki/Entity_Framework)
+[![Entity](https://img.shields.io/badge/Entity-000000.svg?style=for-the-badge&logo=Entity&logoColor=white)](https://en.wikipedia.org/wiki/Entity_Framework)
 
 ##### DBs
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://wikipedia.org/wiki/SQL)
