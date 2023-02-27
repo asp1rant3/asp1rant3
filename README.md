@@ -23,6 +23,8 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 [![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://wikipedia.org/wiki/.NET)
 [![WinForms](https://img.shields.io/badge/WinForms-2CA5E0?style=for-the-badge&logo=WinForms&logoColor=white)](https://en.wikipedia.org/wiki/Windows_Forms)
 [![WPF](https://img.shields.io/badge/WPF-%230A0FFF.svg?style=for-the-badge&logo=WPF&logoColor=white)](https://en.wikipedia.org/wiki/Windows_Presentation_Foundation)
+[![ADO.NET](https://img.shields.io/badge/ADO.NET-5C2D91?style=for-the-badge&logo=ADO.NET&logoColor=white)](https://wikipedia.org/wiki/ADO.NET)
+[![Entity Framework](https://img.shields.io/badge/EntityFramework-5C2D91?style=for-the-badge&logo=EntityFramework&logoColor=white)](https://en.wikipedia.org/wiki/Entity_Framework)
 
 ### <img src="https://github.com/snglrtycrvtureofspce/snglrtycrvtureofspce/blob/main/assets/cockroach.gif" width="25px"> Tools
 
