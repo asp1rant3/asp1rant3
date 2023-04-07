@@ -5,8 +5,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/snglrtycrv" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 ### <img src="https://github.com/jglovier/gifs/blob/gh-pages/done/hand-wipe.gif" width="25px"> Technologies & Languages
-
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://wikipedia.org/wiki/Git)
+I have worked with this before
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://wikipedia.org/wiki/C%2B%2B)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://wikipedia.org/wiki/Java)
@@ -15,6 +14,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://wikipedia.org/wiki/HTML5)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://wikipedia.org/wiki/CSS)
 #### Main stack
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://wikipedia.org/wiki/Git)
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://wikipedia.org/wiki/C_Sharp_(programming_language))
 [![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://wikipedia.org/wiki/.NET)
 [![ADO.NET](https://img.shields.io/badge/ADO.NET-5C2D91?style=for-the-badge&logo=ADO.NET&logoColor=white)](https://wikipedia.org/wiki/ADO.NET)
