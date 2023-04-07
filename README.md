@@ -50,7 +50,6 @@ I have worked with this before<br>
 [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/snglrtycrvtureofspce)
 [![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/snglrtycrvtureofspce/)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/snglrtycrvtureofspce)
-[![VK](https://img.shields.io/badge/-VK-4682B4?style=for-the-badge&logo=VK)](https://vk.com/snglrtycrvtureofspce)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snglrtycrvtureofspce)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/snglrtycrvtureofspce)
 
