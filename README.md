@@ -1,5 +1,5 @@
 ## <img src="https://github.com/snglrtycrvtureofspce/snglrtycrvtureofspce/blob/main/assets/yodasmile.gif" width="25px"> Hello Everyone!
-hi, I'm a passionate self-taught developer and vacant software engineer. my passion for software is to come up with ideas and bring them to life. i am very careful about the experience, architecture and code quality of the things I create.
+hi, I'm a passionate self-taught developer. my passion for software is to come up with ideas and bring them to life. i am very careful about the experience, architecture and code quality of the things I create.
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
