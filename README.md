@@ -21,6 +21,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 [![Entity](https://img.shields.io/badge/Entity-000000.svg?style=for-the-badge&logo=Entity&logoColor=white)](https://wikipedia.org/wiki/Entity_Framework)
 [![ASP.NET](https://img.shields.io/badge/ASP.NET-%2300599C?style=for-the-badge&logo=ASP.NET&logoColor=white)](https://wikipedia.org/wiki/ASP.NET)
 [![WinForms](https://img.shields.io/badge/WinForms-2CA5E0?style=for-the-badge&logo=WinForms&logoColor=white)](https://wikipedia.org/wiki/Windows_Forms)
+[![WPF](https://img.shields.io/badge/WPF-%2300599C?style=for-the-badge&logo=WPF&logoColor=white)](https://en.wikipedia.org/wiki/Windows_Presentation_Foundation)
 
 ##### DBs
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://wikipedia.org/wiki/PostgreSQL)
