@@ -5,13 +5,8 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/snglrtycrv" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 ### <img src="https://github.com/jglovier/gifs/blob/gh-pages/done/hand-wipe.gif" width="25px"> Technologies & Languages
-I have worked with this before<br>
-[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://wikipedia.org/wiki/C%2B%2B)
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://wikipedia.org/wiki/Java)
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://wikipedia.org/wiki/Python_(programming_language))
 
-#### Main stack & what am i evolving now
+## Main stack & what am i evolving now
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://wikipedia.org/wiki/Git)
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://wikipedia.org/wiki/C_Sharp_(programming_language))
 [![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://wikipedia.org/wiki/.NET)
@@ -24,11 +19,17 @@ I have worked with this before<br>
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://wikipedia.org/wiki/HTML5)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://wikipedia.org/wiki/CSS)
 
-##### DBs
+### DBs
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://wikipedia.org/wiki/PostgreSQL)
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://wikipedia.org/wiki/SQL)
 [![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_SQL_Server)
 [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://wikipedia.org/wiki/SQLite)
+
+##### I have worked with this before<br>
+[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://wikipedia.org/wiki/C%2B%2B)
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://wikipedia.org/wiki/Java)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://wikipedia.org/wiki/Python_(programming_language))
 
 ### <img src="https://github.com/snglrtycrvtureofspce/snglrtycrvtureofspce/blob/main/assets/cockroach.gif" width="25px"> Tools
 
