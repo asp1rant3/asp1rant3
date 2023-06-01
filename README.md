@@ -28,9 +28,9 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 ###### I have worked with this before<br>
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://wikipedia.org/wiki/C%2B%2B)
-[![MFC](https://img.shields.io/badge/MFC-%23E34F26.svg?style=for-the-badge&logo=MFC&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Foundation_Class_Library)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://wikipedia.org/wiki/Java)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://wikipedia.org/wiki/Python_(programming_language))
+[![MFC](https://img.shields.io/badge/MFC-%23E34F26.svg?style=for-the-badge&logo=MFC&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Foundation_Class_Library)
 
 ### <img src="https://github.com/snglrtycrvtureofspce/snglrtycrvtureofspce/blob/main/assets/cockroach.gif" width="25px"> Tools
 
